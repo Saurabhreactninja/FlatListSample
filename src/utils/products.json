@@ -1,0 +1,245 @@
+/* Dummy Product Json  */
+{
+  "arrayOfProducts": [
+    {
+      "id": 1,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      "name": "CHECK PRINT SHIRT",
+      "price": 110
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://images.unsplash.com/photo-1597248881519-db089d3744a5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c25lYWtlcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "name": "GLORIA HIGH LOGO SNEAKER",
+      "price": 911
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "CATE RIGID BAGggggggggggggg ggggggggggg",
+      "price": 94.5
+    },
+    {
+      "id": 4,
+      "imgUrl": "https://assets.ajio.com/medias/sys_master/root/20210403/0IST/60687f7df997dd7b645fa019/-473Wx593H-461571257-blue-MODEL2.jpg",
+      "name": "Striped Crew-Neck T-shirt",
+      "price": 480
+    },
+    {
+      "id": 5,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "'70s RETRO GLAM KEFIAH",
+      "price": 200
+    },
+    {
+      "id": 6,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      "name": "CHECK PRINT SHIRT",
+      "price": 110
+    },
+    {
+      "id": 7,
+      "imgUrl": "https://images.unsplash.com/photo-1597248881519-db089d3744a5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c25lYWtlcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "name": "GLORIA HIGH LOGO SNEAKER",
+      "price": 911
+    },
+    {
+      "id": 8,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "CATE RIGID BAG",
+      "price": 94.5
+    },
+    {
+      "id": 9,
+      "imgUrl": "https://assets.ajio.com/medias/sys_master/root/20210403/0IST/60687f7df997dd7b645fa019/-473Wx593H-461571257-blue-MODEL2.jpg",
+      "name": "Striped Crew-Neck T-shirt",
+      "price": 480
+    },
+    {
+      "id": 10,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "'70s RETRO GLAM KEFIAH",
+      "price": 20
+    },
+    {
+      "id": 11,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      "name": "CHECK PRINT SHIRT",
+      "price": 110
+    },
+    {
+      "id": 12,
+      "imgUrl": "https://images.unsplash.com/photo-1597248881519-db089d3744a5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c25lYWtlcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "name": "GLORIA HIGH LOGO SNEAKER",
+      "price": 911
+    },
+    {
+      "id": 13,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "CATE RIGID BAG",
+      "price": 94.5
+    },
+    {
+      "id": 14,
+      "imgUrl": "https://assets.ajio.com/medias/sys_master/root/20210403/0IST/60687f7df997dd7b645fa019/-473Wx593H-461571257-blue-MODEL2.jpg",
+      "name": "Striped Crew-Neck T-shirt",
+      "price": 480
+    },
+    {
+      "id": 15,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "'70s RETRO GLAM KEFIAH",
+      "price": 20
+    },
+    {
+      "id": 16,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      "name": "CHECK PRINT SHIRT",
+      "price": 110
+    },
+    {
+      "id": 17,
+      "imgUrl": "https://images.unsplash.com/photo-1597248881519-db089d3744a5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c25lYWtlcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "name": "GLORIA HIGH LOGO SNEAKER",
+      "price": 911
+    },
+    {
+      "id": 18,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "CATE RIGID BAG",
+      "price": 94.5
+    },
+    {
+      "id": 19,
+      "imgUrl": "https://assets.ajio.com/medias/sys_master/root/20210403/0IST/60687f7df997dd7b645fa019/-473Wx593H-461571257-blue-MODEL2.jpg",
+      "name": "Striped Crew-Neck T-shirt",
+      "price": 480
+    },
+    {
+      "id": 20,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "'70s RETRO GLAM KEFIAH",
+      "price": 20
+    },
+    {
+      "id": 21,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      "name": "CHECK PRINT SHIRT",
+      "price": 110
+    },
+    {
+      "id": 22,
+      "imgUrl": "https://images.unsplash.com/photo-1597248881519-db089d3744a5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c25lYWtlcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "name": "GLORIA HIGH LOGO SNEAKER",
+      "price": 911
+    },
+    {
+      "id": 23,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "CATE RIGID BAG",
+      "price": 94.5
+    },
+    {
+      "id": 24,
+      "imgUrl": "https://assets.ajio.com/medias/sys_master/root/20210403/0IST/60687f7df997dd7b645fa019/-473Wx593H-461571257-blue-MODEL2.jpg",
+      "name": "Striped Crew-Neck T-shirt",
+      "price": 480
+    },
+    {
+      "id": 25,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "'70s RETRO GLAM KEFIAH",
+      "price": 200
+    },
+    {
+      "id": 26,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      "name": "CHECK PRINT SHIRT",
+      "price": 110
+    },
+    {
+      "id": 27,
+      "imgUrl": "https://images.unsplash.com/photo-1597248881519-db089d3744a5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c25lYWtlcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "name": "GLORIA HIGH LOGO SNEAKER",
+      "price": 911
+    },
+    {
+      "id": 28,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "CATE RIGID BAG",
+      "price": 94.5
+    },
+    {
+      "id": 29,
+      "imgUrl": "https://assets.ajio.com/medias/sys_master/root/20210403/0IST/60687f7df997dd7b645fa019/-473Wx593H-461571257-blue-MODEL2.jpg",
+      "name": "Striped Crew-Neck T-shirt",
+      "price": 480
+    },
+    {
+      "id": 30,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "'70s RETRO GLAM KEFIAH",
+      "price": 20
+    },
+    {
+      "id": 31,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      "name": "CHECK PRINT SHIRT",
+      "price": 110
+    },
+    {
+      "id": 32,
+      "imgUrl": "https://images.unsplash.com/photo-1597248881519-db089d3744a5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c25lYWtlcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "name": "GLORIA HIGH LOGO SNEAKER",
+      "price": 911
+    },
+    {
+      "id": 33,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "CATE RIGID BAG",
+      "price": 94.5
+    },
+    {
+      "id": 34,
+      "imgUrl": "https://assets.ajio.com/medias/sys_master/root/20210403/0IST/60687f7df997dd7b645fa019/-473Wx593H-461571257-blue-MODEL2.jpg",
+      "name": "Striped Crew-Neck T-shirt",
+      "price": 480
+    },
+    {
+      "id": 35,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "'70s RETRO GLAM KEFIAH",
+      "price": 20
+    },
+    {
+      "id": 36,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      "name": "CHECK PRINT SHIRT",
+      "price": 110
+    },
+    {
+      "id": 37,
+      "imgUrl": "https://images.unsplash.com/photo-1597248881519-db089d3744a5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c25lYWtlcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "name": "GLORIA HIGH LOGO SNEAKER",
+      "price": 911
+    },
+    {
+      "id": 38,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "CATE RIGID BAG",
+      "price": 94.5
+    },
+    {
+      "id": 39,
+      "imgUrl": "https://assets.ajio.com/medias/sys_master/root/20210403/0IST/60687f7df997dd7b645fa019/-473Wx593H-461571257-blue-MODEL2.jpg",
+      "name": "Striped Crew-Neck T-shirt",
+      "price": 480
+    },
+    {
+      "id": 40,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "'70s RETRO GLAM KEFIAH",
+      "price": 20
+    }
+  ]
+}
