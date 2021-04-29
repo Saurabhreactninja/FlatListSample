@@ -10,7 +10,7 @@ const ProductItem = item => {
   return (
     <View style={styles.card_view}>
       <Image imgUrl={item.item.imgUrl} />
-      <View>
+      <View style={{flexShrink: 1}}>
         <Text style={styles.name} numberOfLines={2} ellipsizeMode="tail">
           {item.item.name}
         </Text>
@@ -22,6 +22,7 @@ const ProductItem = item => {
 
 const styles = StyleSheet.create({
   card_view: {
+    flex: 1,
     flexDirection: 'row',
     backgroundColor: colors.white,
     margin: 10,
@@ -36,10 +37,6 @@ const styles = StyleSheet.create({
   price: {
     fontSize: matrics.small,
     padding: 10,
-  },
-  discount: {
-    textDecorationLine: 'line-through',
-    marginLeft: 10,
   },
 });
 
